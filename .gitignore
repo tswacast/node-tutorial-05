@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 8ec1a98e715ad5a932008780bd16e07a69db8cf6
 # Logs
 logs
 *.log
@@ -23,3 +27,23 @@ build/Release
 # Deployed apps should consider commenting this line out:
 # see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
 node_modules
+<<<<<<< HEAD
+=======
+=======
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+ 
+pids
+logs
+results
+ 
+node_modules
+npm-debug.log
+>>>>>>> 39d1b1f2c90c55cfc7be1734006a467c05c1fd67
+>>>>>>> 8ec1a98e715ad5a932008780bd16e07a69db8cf6
