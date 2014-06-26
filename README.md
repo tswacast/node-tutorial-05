@@ -1,4 +1,4 @@
-node-tutorial-03
+node-tutorial-04
 ================
 
-Final code repository for part three of the node message board tutorial
+Final code repository for part four of the node message board tutorial
